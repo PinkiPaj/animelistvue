@@ -1,6 +1,6 @@
 module.exports = {
   "publicPath": "",
-  "outputDir": "C:\\Users\\Pinki\\Documents\\NetBeansProjects\\animeListJava\\web\\Vue",
+  "outputDir": "C\\:\\Users\\pupil\\Documents\\NetBeansProjects\\Semjon\\animeListJava\\web\\Vue",
   "runtimeCompiler": true,
   "transpileDependencies": [
     "vuetify"
